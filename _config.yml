@@ -5,23 +5,3 @@ title: Alexandre MATIB
 description: Resume
 logo: /assets/img/ID.jpg
 show_downloads: false
-
-copyright: 2017 Your Company, Inc. # appears in footer
-tableofcontents: Table of Contents # text that appears before in-page table of contents
-search_placeholder_text: Search ... # appears as placeholder in search field
-no_search_results_found: No matches found. Try using other keywords?
-github_edit_button_text: false # text for github button
-
-############# GITHUB BUTTON #############
-
-# inserts github link in top nav bar (recommended)
-github_button_location_top_navbar: false
-
-# inserts github link below page title
-github_button_location_below_title: false
-
-# inserts github link at bottom of page (least visible)
-github_button_location_page_bottom: false
-
-# link to your github repo. replace <organization> (if applicable) and <repo name> and <branch name>. Note that the github link will be {{site.github_editme_path}}/{{page.path}}
-github_editme_path: https://github.com/<organization>/<repo name>/blob/<branch name

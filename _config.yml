@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Alexandre MATIB
 description: Resume
 logo: /assets/img/ID.jpg
-show_downloads: false
+show_downloads: true
